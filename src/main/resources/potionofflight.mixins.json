@@ -1,9 +1,11 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.amr.potionofflight.mixin",
+  "package": "net.dez.potionofflight.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "IBrewingRecipeRegistryMixin",
+    "ModEntityDataSaverMixin"
   ],
   "client": [
     "ExampleMixin"

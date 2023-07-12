@@ -1,6 +1,6 @@
-package net.amr.potionofflight.mixin;
+package net.dez.potionofflight.mixin;
 
-import net.amr.potionofflight.PotionOfFlight;
+import net.dez.potionofflight.PotionOfFlight;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

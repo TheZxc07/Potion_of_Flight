@@ -1,4 +1,4 @@
-package net.amr.potionofflight;
+package net.dez.potionofflight;
 
 import net.fabricmc.api.ClientModInitializer;
 

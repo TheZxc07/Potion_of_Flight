@@ -4,9 +4,9 @@
   "version": "${version}",
 
   "name": "Potion of Flight",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Adds a potion of flight wow",
   "authors": [
-    "Me!"
+    "TheZxc07"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,10 +19,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.amr.potionofflight.PotionOfFlight"
+      "net.dez.potionofflight.PotionOfFlight"
     ],
     "client": [
-      "net.amr.potionofflight.PotionOfFlightClient"
+      "net.dez.potionofflight.PotionOfFlightClient"
     ]
   },
   "mixins": [
